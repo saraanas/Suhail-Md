@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
     "AUTHOR": "ANAS",
-    "theme": "ANAS EN NAJJARI",
+    "theme": "Anas En Najjari",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -13,7 +13,7 @@
         "global": {      
             "botName": "HSVXDX",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To ANAS EN NAJJARI",
+            "greet2" : "Thanks To Anas En Najjari",
             "pic1": "https://telegra.ph/file/dc36488a61f750187f182.jpg", 
             "pic2": "https://telegra.ph/file/dc36488a61f750187f182.jpg", 
             "pic3": "https://telegra.ph/file/dc36488a61f750187f182.jpg", 
@@ -33,8 +33,8 @@
             "antlink": "Link Detected.\n*Good Bye Rouge pirate*",
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Suhail_Md*",
             "mention": " Please mention My Owner",
-            "title": "sᴜʜᴀɪʟ-ᴍᴅ",
-            "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n https://www.instagram.com/najjari_anas?igsh=bDVheWg2YWhoZ25s",
+            "title": "Anas En Najjari",
+            "footer": "Anas En Najjari \n https://www.instagram.com/najjari_anas?igsh=bDVheWg2YWhoZ25s",
             "by": "Made by: Anas En Najjari",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
